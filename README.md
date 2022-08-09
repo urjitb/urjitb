@@ -2,7 +2,7 @@
 
 ### These are the significant [Web Dev] Projects i've worked on publically
 
-- 🎁 [VulcanCash](https://github.com/urjitb/VulcunCash) - Incentive Offer Wall site like SwagBucks that offers the users Giftcards and other monetary compensations this project was required with a urgency requirement and the client wanted it to be done within 7 days. 
+- 🎁 [VulcanCash](https://github.com/urjitb/VulcunCash) - Incentive Offer Wall site like SwagBucks that offers the users Giftcards and other monetary compensations this project was required with a urgency requirement and a timeframe of 5 days. 
 
 - 📖 [PostCiao](https://postciao.com/) - Marketing blog made with the ghost CMS updated reguarly with articles related to online marketing.
 
