@@ -12,7 +12,7 @@
 
 - 🏞 [Bulk Watermarker](https://github.com/urjitb/bulkwatermarker) - Electron application to watermark both videos and photos in bulk.
 
-- ⚙️ [Stealth Twitter Poster](https://github.com/urjitb/Twitter-Poster-Stealth) - GUI automation script uses pyauto gui to create tweets in bulk using a combination 4g mobile proxies and anti-detect browsers.
+- ⚙️ [Stealth Twitter Poster](https://github.com/urjitb/Twitter-Poster-Stealth) - GUI automation script uses pyauto gui to create tweets in bulk using a combination of 4g mobile proxies and anti-detect browsers.
 
 <!--
 **urjitb/urjitb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
